@@ -1,4 +1,4 @@
-app/**
+/app/**
 !/app/.gitkeep
 .env
 /mysql/data/**
