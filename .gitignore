@@ -1,3 +1,5 @@
+app/**
+!/app/.gitkeep
 .env
 /mysql/data/**
 !/mysql/data/.gitkeep
