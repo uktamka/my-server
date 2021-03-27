@@ -1,0 +1,13 @@
+{
+  "name": "testuha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "installAndStart": "npm i && npm update npm -g && npm run start",
+    "start": "echo Hellow world!! && npm run test",
+    "test":"echo Tessssst!!"
+  },
+  "author": "",
+  "license": "ISC"
+}

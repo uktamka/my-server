@@ -1,0 +1,8 @@
+.env
+/mysql/data/**
+!/mysql/data/.gitkeep
+/mysql/dump/**
+!/mysql/dump/.gitkeep
+/mysql/logs/**
+/nginx/logs/**
+!/nginx/logs/.gitkeep
